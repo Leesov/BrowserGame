@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="10" tilewidth="70" tileheight="70">
+ <tileset firstgid="1" name="tiles_map" tilewidth="70" tileheight="70">
+  <image source="../../../../../Desktop/zenvaplatformer1_basic/images/tiles_map.png" width="700" height="140"/>
+ </tileset>
+ <layer name="my background layer" width="40" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzjZGBg4BzFo3gUj+JRPIpJxAAW9A4R
+  </data>
+ </layer>
+ <layer name="collision" width="40" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzNk1EKwCAMQ8Va2P1PPATLRDpN2o8tUESJ8aFVyn8lo96kyfzLKUbG5+Wcstc1lgXxnu7PUyP9GUX4WH9GDF+2l7qsn9E32PHNDH2sAZ5ZWh4+WeYsX6bHvL1a4nzo30ULyUQ8bfjqB4Wca297A08dAxM=
+  </data>
+ </layer>
+</map>
